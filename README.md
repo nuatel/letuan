@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Le Tuan
 - 👀 I’m interested in  AI / Machine Learning
-- 🌱 I’m currently learning PhD at UTC
+- 🌱 I’m currently a PhD candidate at UTC
 - 💞️ I’m looking to collaborate on  Control Chart Pattern Recognition
 - 📫 How to reach me: letuan@dut.udn.vn
 
